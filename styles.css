@@ -1,0 +1,29 @@
+* {
+	font-family: Papyrus;
+}
+
+.body-guacamole {
+	background-color: green;
+	color: tomato;
+}
+
+.body-lasagna {
+	background-color: darkorange;
+	color: firebrick;
+}
+
+.body-salsa-chicken {
+	background-color:goldenrod;
+}
+
+.page-heading {
+	background-color: black;
+	color: red;
+}
+
+#body-homepage {
+	background-image: url("https://i.imgur.com/430SNBD.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
